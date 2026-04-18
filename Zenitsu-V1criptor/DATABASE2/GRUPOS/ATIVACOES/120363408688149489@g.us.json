@@ -1,0 +1,24 @@
+[
+  {
+    "name": "LABORATÓRIO",
+    "groupId": "120363408688149489@g.us",
+    "antilinkhard": false,
+    "So_Admins": false,
+    "modobn": false,
+    "autorepo": false,
+    "bangp": false,
+    "antimencao": false,
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo(a) ao Grupo: *#nomedogp#*, Zenitsu lhe deseja as boas vindas 🎊",
+        "legendasaiu": "Adeus, #numerodele#, espero que não se arrependa pela sua decisão. "
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo(a) ao Grupo: *#nomedogp#*, Zenitsu lhe deseja as boas vindas 🎉",
+        "legendasaiu": "Adeus, #numerodele#, espero que não se arrependa pela sua decisão. "
+      }
+    ]
+  }
+]
